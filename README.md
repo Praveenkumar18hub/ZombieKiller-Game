@@ -7,4 +7,7 @@ Developed using Python programming language and the Pygame library, the project 
 - Pygame
 - OpenCV
 
+### Game:
 ![alt text](image.png)
+
+### For Queries : muruganselvarani18@gmail.com 
